@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\open_projects\myApp-master\MyApp.iml" filepath="F:\open_projects\myApp-master\MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\open_projects\myApp-master\app\app.iml" filepath="F:\open_projects\myApp-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myApp-master.iml" filepath="$PROJECT_DIR$/myApp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxerrorhandler/rxerrorhandler.iml" filepath="$PROJECT_DIR$/rxerrorhandler/rxerrorhandler.iml" />
+      <module fileurl="file://F:\open_projects\myApp-master\rxerrorhandler\rxerrorhandler.iml" filepath="F:\open_projects\myApp-master\rxerrorhandler\rxerrorhandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulib/tulib.iml" filepath="$PROJECT_DIR$/tulib/tulib.iml" />
+      <module fileurl="file://F:\open_projects\myApp-master\tulib\tulib.iml" filepath="F:\open_projects\myApp-master\tulib\tulib.iml" />
+    </modules>
+  </component>
+</project>
